@@ -1,4 +1,4 @@
-# Demo Project for Blog Post: Configure Portable Object Localisation in ASP.NET Core
+# Demo Project for Blog Post: Configure Portable Object: Localisation in ASP.NET Core
 
 ## Objective
 This demo is about configuring Portable Object (PO) localisation in .NET Web API. It also covers:
