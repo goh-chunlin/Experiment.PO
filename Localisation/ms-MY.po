@@ -1,0 +1,30 @@
+#: Weather summary (Bahasa Melayu)
+msgid "weather_Freezing"
+msgstr "Membeku"
+
+msgid "weather_Bracing"
+msgstr "Menyegarkan"
+
+msgid "weather_Chilly"
+msgstr "Sejuk"
+
+msgid "weather_Cool"
+msgstr "Dingin"
+
+msgid "weather_Mild"
+msgstr "Sederhana"
+
+msgid "weather_Warm"
+msgstr "Hangat"
+
+msgid "weather_Balmy"
+msgstr "Nyaman"
+
+msgid "weather_Hot"
+msgstr "Panas"
+
+msgid "weather_Sweltering"
+msgstr "Terik"
+
+msgid "weather_Scorching"
+msgstr "Membakar"

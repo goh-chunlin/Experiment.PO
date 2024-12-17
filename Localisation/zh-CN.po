@@ -1,0 +1,30 @@
+#: Weather summary (Chinese)
+msgid "weather_Freezing"
+msgstr "寒冷"
+
+msgid "weather_Bracing"
+msgstr "冷冽"
+
+msgid "weather_Chilly"
+msgstr "凉爽"
+
+msgid "weather_Cool"
+msgstr "清爽"
+
+msgid "weather_Mild"
+msgstr "温和"
+
+msgid "weather_Warm"
+msgstr "暖和"
+
+msgid "weather_Balmy"
+msgstr "温暖"
+
+msgid "weather_Hot"
+msgstr "炎热"
+
+msgid "weather_Sweltering"
+msgstr "闷热"
+
+msgid "weather_Scorching"
+msgstr "灼热"

@@ -1,0 +1,30 @@
+#: Weather summary (English)
+msgid "weather_Freezing"
+msgstr "Freezing"
+
+msgid "weather_Bracing"
+msgstr "Bracing"
+
+msgid "weather_Chilly"
+msgstr "Chilly"
+
+msgid "weather_Cool"
+msgstr "Cool"
+
+msgid "weather_Mild"
+msgstr "Mild"
+
+msgid "weather_Warm"
+msgstr "Warm"
+
+msgid "weather_Balmy"
+msgstr "Balmy"
+
+msgid "weather_Hot"
+msgstr "Hot"
+
+msgid "weather_Sweltering"
+msgstr "Sweltering"
+
+msgid "weather_Scorching"
+msgstr "Scorching"
